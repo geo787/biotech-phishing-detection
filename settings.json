@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./phishing_hybrid_system",
+        "./phishing_hybrid_system"
+    ]
+}
