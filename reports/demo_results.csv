@@ -1,0 +1,7 @@
+email_id,software,nlp_score,bm_score,verdict
+1,epic,0.500,200,LEGITIMATE
+2,epic,0.188,272,LEGITIMATE
+3,cerner,0.688,264,PHISHING
+4,medidata,0.188,232,LEGITIMATE
+5,generic,0.350,121,LEGITIMATE
+6,generic,0.000,153,LEGITIMATE
