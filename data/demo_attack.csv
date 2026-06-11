@@ -1,0 +1,7 @@
+email_text,label,url,software_type
+"URGENT: Your Epic account will be suspended. Verify your credentials immediately: click here",1,http://bit.ly/epic-verify,epic
+"Reminder: Epic scheduled maintenance tonight at 02:00. No action required.",0,https://epic.myhospital.org/portal,epic
+"PowerChart security update required. Update your credentials now: http://malicious-cerner-login.com",1,http://malicious-cerner-login.com,cerner
+"Medidata alert: confirm study access here",1,http://bit.ly/medidata-secure,medidata
+"Please update your password to continue using the service",1,http://tinyurl.com/update-pass,generic
+"Monthly newsletter: new features and security tips",0,https://news.researchlab.org/newsletter,generic

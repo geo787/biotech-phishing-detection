@@ -1,0 +1,11 @@
+email_text,label,url,software_type
+"Verify your Epic credentials immediately - Click here",1,http://epic-secure-verify.xyz/login,epic
+"Welcome to your MyChart Patient Portal",0,https://mychart.example.com/portal,epic
+"Update your Epic password now!",1,http://epic-password-update.ru/reset,epic
+"Your Epic account has been locked - Confirm your identity",1,https://epic-account-verify.xyz,epic
+"Your Cerner EHR login credentials need verification",1,http://cerner-ehr-update.xyz/verify,cerner
+"Welcome to PowerChart - Your Cerner Portal",0,https://powerchart.hospital.com,cerner
+"Urgent: Update your Cerner password",1,http://cerner-pwd-update.ru,cerner
+"Clinical trial data access - Verify your Medidata login",1,http://medidata-trial-access.xyz,medidata
+"Medidata - Update your study credentials",1,http://medidata-rave-verify.ru,medidata
+"Welcome to your clinical trial dashboard",0,https://rave.medidata.com/trial,medidata

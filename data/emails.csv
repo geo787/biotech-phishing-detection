@@ -1,0 +1,11 @@
+email_text,label,url
+"Verify your PayPal account now! Click here immediately.",1,http://pay-pal-secure-verify.ru/login
+"Hello, this is your monthly newsletter.",0,https://newsletter.example.com/may
+"UPDATE: Your Apple ID needs verification. Confirm now.",1,https://apple-secure-update.xyz/verify?id=12345
+"Meeting scheduled for tomorrow at 2 PM",0,https://calendar.work.com/meeting
+"Congratulations! You won a free gift card!",1,http://free-gift-cardsss.tk/claim
+"Project update from the team",0,https://docs.company.internal/project
+"Your bank account has been compromised!",1,http://secure-banking-update.ru/verify
+"Welcome to our mailing list",0,https://example.com/welcome
+"Amazon: Confirm your payment method",1,https://amazon-account-verify.xyz/pay
+"Weekly digest of your subscriptions",0,https://mail.subscription.com/digest
