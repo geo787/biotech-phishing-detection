@@ -318,15 +318,20 @@ This system was developed as part of a dissertation on "Phishing Attack Detectio
 
 For questions or issues:
 - Open an [issue](https://github.com/yourusername/phishing_hybrid_system/issues)
-- Email: your.email@example.com
-- University: Your University, Department of Computer Science
+- Email: barba.roberta2015@gmail.com
+- University: West University of Timișoara, Department of Computer Science
 
 ## 🙏 Acknowledgments
 
-- Berlekamp-Massey algorithm for linear complexity analysis
-- Scikit-learn for ML frameworks
-- Flask for API development
-- Healthcare cybersecurity community for domain expertise
+- The original Berlekamp-Massey algorithm research community, for foundational work in linear complexity analysis.
+- The Scikit-learn contributors, for making practical machine learning accessible and reliable.
+- The Flask maintainers, for a lightweight and powerful API ecosystem.
+- Healthcare and biotech cybersecurity professionals, whose real-world challenges inspired this project.
+- Open-source contributors and educators who share knowledge and make security innovation possible.
+
+🤝 Support the Project 
+
+If this project helps you, consider starring the repository, sharing feedback, or contributing ideas and improvements.
 
 ---
 
